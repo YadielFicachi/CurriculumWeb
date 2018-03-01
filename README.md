@@ -1,2 +1,2 @@
 # CurriculumWeb
-Curriculum de Hugo Yadiel
+Curriculum de Hugo Yadiel <yadielficachi19@gmail.com>
